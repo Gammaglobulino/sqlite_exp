@@ -1,2 +1,2 @@
 # sqlite_exp
-Quit Rust test for SQlite DB and Bcrypt
+Quick Rust test for SQlite DB and Bcrypt
